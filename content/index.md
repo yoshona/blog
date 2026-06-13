@@ -19,3 +19,4 @@ description: 关于 Java、JVM、后端工程和系统设计的个人技术博�
 ## 最近文章
 
 - [[virtual-thread-production|虚拟线程]]
+- [[modern-Java-Garbage-Collectors.md|现代 JVM 使用的 GC]]
